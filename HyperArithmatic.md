@@ -27,7 +27,7 @@ To start with, make your table:
 
 |dimensions in space:|vertices|edges|faces|volumes|hypervolumes|5-volumes|etc...|
 |----|----|----|----|----|----|----|----|
-|0|9 |9 |9 |9 |9 |9 |9 |
+|0| | | | | | | |
 |2| | | | | | | |
 |3| | | | | | | |
 |4| | | | | | | |
