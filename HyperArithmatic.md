@@ -6,7 +6,7 @@
 [The above javascript script enables browsers to read the \(\LaTeX\) scripts in this page by calling upon mathjax. One dollar sign leads to inline, two leads to block.]: #
 
 ### Some Useful Equations When Drawing Hypercubes
-- [Calculating basic features](#making-tables)
+- (Calculating basic features)[#making-tables]
 
 
 ## {#making-tables}
