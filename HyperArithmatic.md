@@ -6,10 +6,11 @@
 [The above javascript script enables browsers to read the \(\LaTeX\) scripts in this page by calling upon mathjax. One dollar sign leads to inline, two leads to block.]: #
 
 ### Some Useful Equations When Drawing Hypercubes
-- (Calculating basic features)[#making-tables]
+- [Calculating basic features](#making-tables)
 
 
-## {#making-tables}
+[The curly bracket heading ID didn't work for me. The guide does say it's dependent on the processor, so maybe that's just this preview.]: #
+## Making Tables 
 A hypercube is not a cube. A hypercube is related to a 3-cube in the same way a 3-cube is related to a square.
 
 You may remember learning about the properties of a cube when you were in primary school. Here are a few of them:
@@ -19,7 +20,7 @@ You may remember learning about the properties of a cube when you were in primar
 
 There are other properties of a cube that we usually learn when we are a little bit older. For example:
 - We can calculate the surface area of a polygon by adding the size of each size. For a cube with an edge length of $x$, the surface area is $6x^2$, because it has six sides and each has an area of $x^2$.
-- We can calculate the volume of a cube with an edge length of $x$ using the equation " $x$ cubed," or $x^3$. (You can calculate the size of a square with $x$ squared. This is not an accident.)
+- We can calculate the volume of a cube with an edge length of $x$ using the equation "_x_ cubed," or $x^3$. (You can calculate the size of a square with $x$ squared. Note that naming convention.)
 
 When you are making models of hyperspace, you will eventually need to know about the properties of whatever shape you are working with. For a hypercube, you can calculate the basic properties very easily in a table.
 
