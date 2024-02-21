@@ -5,6 +5,8 @@
 
 [The above javascript script enables browsers to read the \(\LaTeX\) scripts in this page by calling upon mathjax. One dollar sign leads to inline, two leads to block. It isn't necessary here because the default github reader already reads LaTex.]: #
 
+[This page is being modified to display in browser properly.]: #
+
 ### Some Useful Equations When Drawing Hypercubes
 - [Calculating basic features](#making-tables)
 
